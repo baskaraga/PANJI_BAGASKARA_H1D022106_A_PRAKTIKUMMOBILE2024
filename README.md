@@ -121,8 +121,3 @@ Widget build(BuildContext context) {
 
 ---
 
-### **Perubahan untuk Tampilan Menarik**
-Untuk meningkatkan tampilan, tambahkan elemen berikut:
-1. Ubah warna tombol dan teks.
-2. Gunakan animasi untuk transisi perubahan teks.
-3. Tambahkan ikon pada tombol.
